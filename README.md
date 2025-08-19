@@ -22,7 +22,7 @@ Neste projeto, dois jogadores controlam suas raquetes para rebater a bola, tenta
 
 ## 🚀 Como compilar e executar
 
-Clone o repositório:
+Clone o repositório, va até o diretorio e compile:
 ```bash
 git clone https://github.com/vinicarvalhop020/Games_in_CPP
 cd pong
